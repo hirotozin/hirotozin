@@ -17,5 +17,6 @@
 meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia reversa no momento.
 #### ・ no momento só quero ficar na engenharia, não quero aprofundar ainda em programação.
 
+#### Daqui a alguns meses pretendo fazer cursos sobre redes de informática e montagem e manutenção de microcomputadores
 
 ---
